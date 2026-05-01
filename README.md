@@ -22,3 +22,8 @@ turnover and provide actionable insights for HR decision-making.
 - Identified high-risk employee segments
 - Tracked KPIs including turnover rate, avg tenure, department-wise attrition
 - Built interactive Excel dashboard for HR decision-making
+
+## 📁 Files
+| File | Description |
+|------|-------------|
+| HR_Analytics_Dashboard_Attrition_Analysis.xlsx | Main Excel dashboard with analysis |
