@@ -1,5 +1,5 @@
 # hr-analytics-attrition
-HR Attrition Analysis using Excel - analyzing employee turnover, attrition patterns and HR KPI metrics
+HR Attrition Analysis using Excel and Power BI - analyzing employee turnover, attrition patterns and HR KPI metrics
 
 ## 📊 Project Overview
 Analyzed employee attrition data to identify key factors driving 
