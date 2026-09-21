@@ -27,3 +27,4 @@ turnover and provide actionable insights for HR decision-making.
 | File | Description |
 |------|-------------|
 | HR_Analytics_Dashboard_Attrition_Analysis.xlsx | Main Excel dashboard with analysis |
+| HR_Analytics_Dashboard_Attrition_Analysis.pbix | Main Power Bi dashboard with analysis |
